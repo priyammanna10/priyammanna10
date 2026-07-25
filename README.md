@@ -1,18 +1,5 @@
-Hi 👋 I'm Priyam Manna
+Software Engineer and AI Engineer with hands on experience re platforming a live legacy business system into a scalable, database-backed application using Next.js, React, and PostgreSQL. I work across backend API development, relational schema design, and authentication , access control systems, alongside applied AI work spanning NLP, machine learning pipelines, and automation with Python. I'm comfortable owning a feature end to end schema design, API, frontend, and deployment  and I'm open to collaboration and learning opportunities.
 
-A passionate developer.
+**Skills:** Python, JavaScript, TypeScript, SQL, C, FastAPI, Flask, REST APIs, Pydantic, JWT/OAuth, React.js, Next.js, Tailwind CSS, PostgreSQL, MySQL, MongoDB, Git, Docker, Linux, Vercel, PyTorch, Keras, scikit-learn, Hugging Face, LangChain, NumPy, Pandas, Matplotlib, Streamlit
 
-Profile: https://github.com/priyammanna10
-
-About me
-- 🔭 Currently working on: Machine Learning and Python
-- 🌱 Currently learning: PyTorch and Deep Learning
-
-Connect
-- GitHub: https://github.com/priyammanna10
-
-Languages and tools:
-AWS, C, Docker, FastAPI, Git, Hugging Face, Jupyter, Keras, LangChain, Linux, Matplotlib, NumPy, Ollama, Pandas, Python, PyTorch, scikit-learn, Seaborn, Streamlit
-
-Short note
-I enjoy building ML projects and improving my skills in deep learning and production-ready tooling. Open to collaboration and learning opportunities.
+[Github/priyammanna10](https://github.com/priyammanna10) | [Linkedin/in/priyammanna](https://linkedin.com/in/priyammanna) | [Medium/@mannablogs](https://medium.com/@mannablogs)
